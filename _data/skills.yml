@@ -19,6 +19,7 @@
 
 - section: AWS
   skills:
+    - name: S3
     - name: Lambda
     - name: SQS
     - name: SNS
