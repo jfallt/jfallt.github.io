@@ -1,41 +1,14 @@
-- name: Melanoma Cancer
+- name: SQL
   percentage: 98
 
 - name: Python
-  percentage: 95
-
-- name: Polarized Imaging
-  percentage: 90
-
-- name: Matlab
-  percentage: 95
-
-- name: Retinopathy
-  percentage: 85
-
-- name: C/C++
-  percentage: 60
-
-- name: Pattern Recognition
-  percentage: 90
+  percentage: 98
 
 - name: Git
-  percentage: 98
-
-- name: Machine Learning
-  percentage: 98
-
-- name: Data Mining
-  percentage: 98
-
-- name: Computer Vision
-  percentage: 90
-
+  percentage: 100
+  
 - name: Linux/Unix
   percentage: 95
 
-- name : ROS
-  percentage: 90
-
-- name: Latex
+- name: dbt
   percentage: 95
