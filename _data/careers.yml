@@ -52,7 +52,7 @@
   job:
     detail: Business Intelligence Developer
     i18n: re_job
-  icon: fa-chart-line
+  icon: fa-chart-simple
 
 - name:
     detail: Business Analyst @ Lowe's Pro Supply
@@ -70,7 +70,7 @@
   job:
     detail: Business Analyst
     i18n: re_job
-  icon: fa-analytics
+  icon: fa-chart-pie
 
 - name:
     detail: Full Stack Developer @ Southeastern Employment Services, LLC
