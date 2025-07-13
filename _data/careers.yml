@@ -36,5 +36,23 @@
     i18n: re_job
   icon: fa-search
 
+  - name:
+    detail: Business Intelligence Developer @ Culligan Quench
+    i18n: re
+  desc:
+    detail:
+        • Identify, measure and recommend improvement strategies for KPIs across all business areas
+        • Process complex data sets using advanced querying, visualization and analytics tools
+        • Undertake preprocessing of structured and unstructured data
+        • Evaluate and improve existing BI systems
+    i18n: re_des
+  date:
+    detail: Feb 2019 - Jan 2020
+    i18n: re_date
+  job:
+    detail: Business Intelligence Developer
+    i18n: re_job
+  icon: fa-search
+
 
 
