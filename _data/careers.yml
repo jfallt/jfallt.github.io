@@ -53,3 +53,21 @@
     detail: Business Intelligence Developer
     i18n: re_job
   icon: fa-search
+
+- name:
+    detail: Business Analyst @ Lowe's Pro Supply
+    i18n: re
+  desc:
+    detail:
+        - Analyze competitive market strategies through analysis of related product, market, or share trends.
+        - Create business intelligence tools or systems, including design of related databases, spreadsheets, or outputs.
+        - Analyze technology trends to identify markets for future product development or to improve sales of existing products.
+        - Synthesize current business intelligence or trend data to support recommendations for action.
+    i18n: re_des
+  date:
+    detail: Jun 2017 - Feb 2019
+    i18n: re_date
+  job:
+    detail: Business Intelligence Developer
+    i18n: re_job
+  icon: fa-search
