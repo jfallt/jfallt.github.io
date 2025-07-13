@@ -71,3 +71,21 @@
     detail: Business Analyst
     i18n: re_job
   icon: fa-analytics
+
+  - name:
+    detail: Full Stack Developer @ Southeastern Employment Services, LLC
+    i18n: re
+  desc:
+    detail:
+        - Reviewed code and debugged errors to improve performance 
+        - Developed new features and maintained internal website utilizing PHP, JavaScript, HTML, and CSS
+        - Automated certificate renewal
+        - Enhanced reporting capabilities 
+    i18n: re_des
+  date:
+    detail: Jun 2017 - Feb 2019
+    i18n: re_date
+  job:
+    detail: Full Stack Developer
+    i18n: re_job
+  icon: fa-code
