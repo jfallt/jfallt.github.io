@@ -15,7 +15,7 @@
   job:
     detail: Senior Data Engineer
     i18n: re_job
-  icon: fa-search
+  icon: fa-server 
 
 - name:
     detail: Data Engineer @ Aberdeen Standard Investments
@@ -34,7 +34,7 @@
   job:
     detail: Data Engineer
     i18n: re_job
-  icon: fa-search
+  icon: fa-database
 
 - name:
     detail: Business Intelligence Developer @ Culligan Quench
@@ -52,7 +52,7 @@
   job:
     detail: Business Intelligence Developer
     i18n: re_job
-  icon: fa-search
+  icon: fa-chart-line
 
 - name:
     detail: Business Analyst @ Lowe's Pro Supply
@@ -68,6 +68,6 @@
     detail: Jun 2017 - Feb 2019
     i18n: re_date
   job:
-    detail: Business Intelligence Developer
+    detail: Business Analyst
     i18n: re_job
-  icon: fa-search
+  icon: fa-analytics
