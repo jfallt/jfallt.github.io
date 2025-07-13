@@ -36,7 +36,7 @@
     i18n: re_job
   icon: fa-search
 
-  - name:
+- name:
     detail: Business Intelligence Developer @ Culligan Quench
     i18n: re
   desc:
