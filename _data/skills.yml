@@ -7,7 +7,7 @@
     - name: PHP
     - name: DAX
 
-- section: Frameworks:
+- section: Frameworks
   skills:
     - name: Airflow
     - name: dbt
