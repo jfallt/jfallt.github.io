@@ -72,7 +72,7 @@
     i18n: re_job
   icon: fa-analytics
 
-  - name:
+- name:
     detail: Full Stack Developer @ Southeastern Employment Services, LLC
     i18n: re
   desc:
