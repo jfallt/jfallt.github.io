@@ -1,14 +1,16 @@
-Programming Languages:
-  - name: SQL
-  - name: Python
-  - name: Bash
-  - name: Javascript
-  - name: PHP
-  - name: DAX
+- section: Programming Languages:
+  skills:
+    - name: SQL
+    - name: Python
+    - name: Bash
+    - name: Javascript
+    - name: PHP
+    - name: DAX
 
-Frameworks:
-  - name: Airflow
-  - name: dbt
-  - name: Git
-  - name: Linux/Unix
-  - name: CI/CD
+- section: Frameworks:
+  skills:
+    - name: Airflow
+    - name: dbt
+    - name: Git
+    - name: Linux/Unix
+    - name: CI/CD
