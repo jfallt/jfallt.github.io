@@ -3,10 +3,10 @@
     i18n: re
   desc:
     detail:
-        - Designed best practices to support continuous process automation for data ingestion and data pipeline workflows.\n
-        - Designed and implemented scalable data pipelines using Apache Airflow, Spark, Python, and Docker.\n
-        - Developed and maintained ETL processes to ingest and transform large datasets from various sources.\n
-        - Implemented data quality checks and monitoring systems to ensure data integrity and reliability.\n
+        - Designed best practices to support continuous process automation for data ingestion and data pipeline workflows.
+        - Designed and implemented scalable data pipelines using Apache Airflow, Spark, Python, and Docker.
+        - Developed and maintained ETL processes to ingest and transform large datasets from various sources.
+        - Implemented data quality checks and monitoring systems to ensure data integrity and reliability.
         - Utilized cloud services (AWS) for data storage, processing, and analytics.
     i18n: re_des
   date:
@@ -22,11 +22,11 @@
     i18n: re
   desc:
     detail:
-        - Designed best practices to support continuous process automation for data ingestion and data pipeline workflows.\n
-        - Designed and implemented scalable data pipelines using Apache Airflow, Spark, Python, and Docker.\n
-        - Developed and maintained ETL processes to ingest and transform large datasets from various sources.\n
-        - Implemented data quality checks and monitoring systems to ensure data integrity and reliability.\n
-        - Utilized cloud services (AWS) for data storage, processing, and analytics.\n
+        - Designed best practices to support continuous process automation for data ingestion and data pipeline workflows.
+        - Designed and implemented scalable data pipelines using Apache Airflow, Spark, Python, and Docker.
+        - Developed and maintained ETL processes to ingest and transform large datasets from various sources.
+        - Implemented data quality checks and monitoring systems to ensure data integrity and reliability.
+        - Utilized cloud services (AWS) for data storage, processing, and analytics.
     i18n: re_des
   date:
     detail: Jan 2020 - Jan 2022
