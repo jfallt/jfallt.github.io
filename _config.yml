@@ -1,25 +1,23 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: "M. Rastgoo"
-description: "Personal website of Mojdeh Rastgoo"
-keywords: "mrastgoo,mojdeh,rastgoo,medical,imaging,vision,melanoma,polarized,multispectral"
+title: "J.Fallt"
+description: "Personal website of Jared Fallt"
+keywords: "jfallt"
 baseurl: "/"
-url: "http://mrastgoo.github.io"
+url: "http://jfallt.github.io"
 # url: "http://127.0.0.1:4000"
 
 # author
 author:
-  name: 'Rastgoo'
-  first_name: 'Mojdeh'
-  last_name: 'Rastgoo'
-  email: 'mojdeh.rastgoo@gmail.com'
-  linkedin_username: 'https://www.linkedin.com/in/mojdeh-rastgoo-6462753a/'
-  scholar_username: 'https://scholar.google.fr/citations?user=lPIo6ucAAAAJ&hl=en&oi=ao'
-  github_username: 'mrastgoo'
+  name: 'Fallt'
+  first_name: 'Jared'
+  last_name: 'Fallt'
+  email: 'fallt.jared@gmail.com'
+  linkedin_username: 'https://www.linkedin.com/in/jared-fallt/'
+  github_username: 'jfallt'
   head_img: 'static/img/landing/picture.jpeg'
-  desc: "Currently I am a senior data scientist at Saint-Gobain. My work include developing and industrializing AI solutions for different bussiness of saint-gobain.
-  I am passionate about initiatives related to open-source and strive for diversity within the community." 
+  desc: "Currently I am a senior data engineer at Macquarie Group. My work include developing reusable best practices for data ingestion, performance tuning pipelines and building appication MVPs" 
 
   
 
