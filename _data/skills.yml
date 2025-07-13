@@ -1,20 +1,14 @@
-- name: SQL
-  percentage: 98
+Programming Languages:
+  - name: SQL
+  - name: Python
+  - name: Bash
+  - name: Javascript
+  - name: PHP
+  - name: DAX
 
-- name: Python
-  percentage: 98
-
-- name: Git
-  percentage: 100
-  
-- name: Linux/Unix
-  percentage: 95
-
-- name: dbt
-  percentage: 95
-
-- name: Airflow
-  percentage: 100
-
-- name: CI/CD
-  percentage: 100
+Frameworks
+  - name: Airflow
+  - name: dbt
+  - name: Git
+  - name: Linux/Unix
+  - name: CI/CD
