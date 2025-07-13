@@ -6,7 +6,7 @@ Programming Languages:
   - name: PHP
   - name: DAX
 
-Frameworks
+Frameworks:
   - name: Airflow
   - name: dbt
   - name: Git
