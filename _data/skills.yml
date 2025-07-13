@@ -15,6 +15,7 @@
     - name: Git
     - name: Linux/Unix
     - name: CI/CD
+    - name: PowerBI
 
 - section: AWS
   skills:
@@ -23,3 +24,9 @@
     - name: SNS
     - name: Eventbridge
     - name: EC2
+
+- section: Databases
+  skills:
+    - name: MSSQL (T-SQL)
+    - name: Redshift
+    - name: PostgreSQL
