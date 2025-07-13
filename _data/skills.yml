@@ -10,7 +10,16 @@
 - section: Frameworks
   skills:
     - name: Airflow
+    - name: Docker
     - name: dbt
     - name: Git
     - name: Linux/Unix
     - name: CI/CD
+
+- section: AWS
+  skills:
+    - name: Lambda
+    - name: SQS
+    - name: SNS
+    - name: Eventbridge
+    - name: EC2
